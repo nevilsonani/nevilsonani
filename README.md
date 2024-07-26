@@ -50,14 +50,13 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
     <td align="center">
       <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=nevilsonani&theme=highcontrast" alt="GitHub Streak"/>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevilsonani&layout=donut-vertical)](https://github.com/nevilsonani/github-readme-stats)
       </a>
     </td>
   
   </tr>
 </table>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevilsonani&theme=tokyonight)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
