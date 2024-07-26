@@ -2,13 +2,13 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hilay-trivedi-493b121b1/">
+  <a href="https://www.linkedin.com/in/nevil-sonani-263b68222/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/hilaytrivedi24/">
+  <a href="https://www.instagram.com/nevil_sonani/">
     <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="mailto:hilaytrivedi1224@gmail.com">
+   <a href="mailto:nevilsonani2810@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
@@ -66,15 +66,8 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
     <br>
     
 </div>
-
----
-
-### My Contributions
-
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nevilsonani/nevilsonani/output/github-contribution-grid-snake.svg" />
-</div>
+### [Snake game from github user contributions graph](https://github.com/nevilsonani/snk) - [Nevil](https://github.com/nevilsonani/) 
+![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
 
 ### :fire: My Stats
