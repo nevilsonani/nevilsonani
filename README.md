@@ -1,20 +1,91 @@
+![mi perfil](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 
-<h1 align="center">Hi 👋, I'm Nevil Sonani</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/hilay-trivedi-493b121b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/hilaytrivedi24/">
+    <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   <a href="mailto:hilaytrivedi1224@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nevilsonani&label=Profile%20views&color=0e75b6&style=flat" alt="nevilsonani" /> </p>
+<div align="center">
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=nevilsonani.nevilsonani"/>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nevilsonani" alt="nevilsonani" /></a> </p>
+<h1 align="center">
+  Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-- 📫 How to reach me **nevilsonani2810@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nevilsonani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nevilsonani" height="30" width="40" /></a>
-</p>
+### :man_technologist: About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nevilsonani&show_icons=true&locale=en&layout=compact" alt="nevilsonani" /></p>
+- :telescope: I’m working as a Full Stack Web Engineer and contributing to Wordpress core, Gutenberg, open verse, and many other domains of WordPress.
+- :seedling: Exploring the Data Science, Artificial Intelligence, and Web-3 concepts.
+- :zap: In my free time, I travel, listen to songs, solve problems on Hackerrank, and learn new concepts.
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-NevilSonani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nevil-sonani-263b68222/) or you can mail me on: [![Gmail Badge](https://img.shields.io/badge/-NevilSonani-important?style=flat&logo=Gmail&logoColor=white)](mailto:nevilsonani2810@gmail.com)
+
+-----
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=subhamukherjee321&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+---
+
+### :hammer_and_wrench: Languages and Tools
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=javascript" />
+    <img src="https://skillicons.dev/icons?i=SQL" />
+    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+    
+    <br>
+  
+    <img src="https://skillicons.dev/icons?i=Microsoft Azure" />
+    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=Deep Learning" />
+    <img src="https://skillicons.dev/icons?i=NLP" />
+    <img src="https://skillicons.dev/icons?i=Machine Learning" />
+    <img src="https://skillicons.dev/icons?i=python" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=php" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=wordpress" />
+    <br>
+    
+</div>
+
+---
+
+### My Contributions
+
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nevilsonani/nevilsonani/output/github-contribution-grid-snake.svg" />
+</div>
+
+
+### :fire: My Stats
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=nevilsonani&theme=highcontrast" alt="GitHub Streak"/>
+      </a>
+    </td>
+  
+  </tr>
+</table>
