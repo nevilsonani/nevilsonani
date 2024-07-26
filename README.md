@@ -56,10 +56,5 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   </tr>
 </table>
 
-<table align="center">
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevilsonani&theme=tokyonight)
-</table>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
