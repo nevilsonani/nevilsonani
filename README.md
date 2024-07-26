@@ -39,7 +39,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 ### :hammer_and_wrench: Languages and Tools
 
 
-[![My Skills](https://skillicons.dev/icons?i=html, css, bootstrap, js, python, react, node, express, mysql, mongodb, azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,python,react,node,express,mysql,mongodb,azure)](https://skillicons.dev)
     
 
 
