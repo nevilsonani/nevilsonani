@@ -32,39 +32,15 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 - :zap: In my free time, I travel, listen to songs, solve problems on Hackerrank, and learn new concepts.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-NevilSonani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nevil-sonani-263b68222/) or you can mail me on: [![Gmail Badge](https://img.shields.io/badge/-NevilSonani-important?style=flat&logo=Gmail&logoColor=white)](mailto:nevilsonani2810@gmail.com)
 
------
-
-### :Skills
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+----
 
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html" />
-    <img src="https://skillicons.dev/icons?i=css" />
-    <img src="https://skillicons.dev/icons?i=javascript" />
-    <img src="https://skillicons.dev/icons?i=SQL" />
-    <img src="https://skillicons.dev/icons?i=react" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
-    
-    <br>
-  
-    <img src="https://skillicons.dev/icons?i=Microsoft Azure" />
-    <img src="https://skillicons.dev/icons?i=git" />
-    <img src="https://skillicons.dev/icons?i=vscode" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=Deep Learning" />
-    <img src="https://skillicons.dev/icons?i=NLP" />
-    <img src="https://skillicons.dev/icons?i=Machine Learning" />
-    <img src="https://skillicons.dev/icons?i=python" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=php" />
-    <img src="https://skillicons.dev/icons?i=mysql" />
-    <img src="https://skillicons.dev/icons?i=wordpress" />
-    <br>
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
     
 </div>
 ### [Snake game from github user contributions graph](https://github.com/nevilsonani/snk) - [Nevil](https://github.com/nevilsonani/) 
