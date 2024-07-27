@@ -56,7 +56,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   </tr>
 </table>
 
-
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nevilsonani)
 ![Nevil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevilsonani\&include_all_commits=true)
 
 
