@@ -57,4 +57,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 </table>
 
 
+![Nevil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevilsonani\&include_all_commits=true)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
