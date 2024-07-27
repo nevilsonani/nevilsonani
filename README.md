@@ -51,15 +51,17 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
       <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=nevilsonani&theme=highcontrast" alt="GitHub Streak"/>
       </a>
+      <br>
+      
+![Nevil's GitHub stats](https://github-readme-stats.vercel.app/api/?username=nevilsonani\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
     </td>
   
   </tr>
 </table>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=nevilsonani\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+![Nevil's GitHub stats](https://github-readme-stats.vercel.app/api/?username=nevilsonani\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
-*   Setting card locale
-![Nevil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevilsonani\&include_all_commits=true)
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
