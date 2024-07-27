@@ -52,6 +52,10 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
         <img src="http://github-readme-streak-stats.herokuapp.com?user=nevilsonani&theme=highcontrast" alt="GitHub Streak"/>
       </a>
       <br>
+       <br>
+       <br>
+       <br>
+      
       
 ![Nevil's GitHub stats](https://github-readme-stats.vercel.app/api/?username=nevilsonani\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
     </td>
@@ -59,7 +63,6 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   </tr>
 </table>
 
-![Nevil's GitHub stats](https://github-readme-stats.vercel.app/api/?username=nevilsonani\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
 
 
