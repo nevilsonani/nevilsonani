@@ -55,6 +55,21 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
        <br>
        <br>
        <br>
+       <th><a href="source/plugins/lines/README.md">👨‍💻 Lines of code changed</a></th>
+ 
+  <tr>
+        <td  align="center">
+        <details open><summary>Classic charts</summary><img alt="" width="400" src="https://github.com/nevilsonani/metrics/blob/examples/metrics.plugin.stargazers.svg" alt=""></img></details>
+        <details><summary>Graph charts</summary><img alt="" width="400" src="https://github.com/nevilsonani/metrics/blob/examples/metrics.plugin.stargazers.graph.svg" alt=""></img></details>
+        <details open><summary>Worldmap</summary><img alt="" width="400" src="https://github.com/nevilsonani/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <details open><summary>Repositories and diff history</summary><img alt="" width="400" src="https://github.com/nevilsonani/metrics/blob/examples/metrics.plugin.lines.history.svg" alt=""></img></details>
+        <details><summary>Compact display in base plugin</summary><img alt="" width="400" src="https://github.com/nevilsonani/metrics/blob/examples/metrics.plugin.lines.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
       
       
 ![Nevil's GitHub stats](https://github-readme-stats.vercel.app/api/?username=nevilsonani\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
