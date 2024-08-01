@@ -53,8 +53,6 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
       </a>
       <br>
        <br>
-
-
        <br>
        <br>
       
