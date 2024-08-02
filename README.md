@@ -64,6 +64,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   </tr>
 </table>
 <br>
+ ![Pair Extraordinaire](/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png)     | Pair Extraordinaire  | [Coauthored](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) commits on merged pull request | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png" width="60px"></td>   <td><img src="/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire_Bronze.png" width="60px" align="center"></td>  <td><img src="/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire_Silver.png" width="60px"></td>  <td><img src="/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire_Gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">1</td>  <td align="center">10</td>  <td align="center">24</td>  <td align="center">48</td>  </tr>   </tbody>  </table>      
 
 
 
