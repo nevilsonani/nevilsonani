@@ -27,6 +27,12 @@
 
 I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=1000&height=45&lines=A+passionate+Full-STACK+Developer+and+Programmer+from+India.;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+
+</p>
+
 - :seedling: Exploring the Data Science, Artificial Intelligence, and Web-3 concepts.
 - :zap: In my free time, I travel, listen to songs, solve problems on Hackerrank, and learn new concepts.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-NevilSonani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nevil-sonani-263b68222/) or you can mail me on: [![Gmail Badge](https://img.shields.io/badge/-NevilSonani-important?style=flat&logo=Gmail&logoColor=white)](mailto:nevilsonani2810@gmail.com)
