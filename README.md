@@ -58,7 +58,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
       </a>
       <br>
        <br>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/nevilsonani/github-readme-stats)
        <br>
        <br>
    
@@ -72,7 +71,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </table>
 <br>
    </table>      
-
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/nevilsonani/github-readme-stats)
 
 
