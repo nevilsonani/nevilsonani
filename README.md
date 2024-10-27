@@ -54,10 +54,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     <td align="center">
       <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=nevilsonani&theme=highcontrast" alt="GitHub Streak"/>
-         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/nevilsonani/github-readme-stats)
+        
       </a>
       <br>
        <br>
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/nevilsonani/github-readme-stats)
        <br>
        <br>
    
