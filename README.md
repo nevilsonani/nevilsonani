@@ -46,15 +46,15 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     <img src="https://skillicons.dev/icons?i=typescript" />
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=bootstrap" />
-    <img src="https://skillicons.dev/icons?i=threejs" />
+    <img src="https://skillicons.dev/icons?i=scss" />
     <br>
     <img src="https://skillicons.dev/icons?i=mui" />
     <img src="https://skillicons.dev/icons?i=tailwind" />
     <img src="https://skillicons.dev/icons?i=git" />
-    <img src="https://skillicons.dev/icons?i=scss" />
     <img src="https://skillicons.dev/icons?i=vscode" />
-    <br>
     <img src="https://skillicons.dev/icons?i=github" />
+    <br>
+    
     <img src="https://skillicons.dev/icons?i=figma" />
     <img src="https://skillicons.dev/icons?i=redux" />
     <img src="https://skillicons.dev/icons?i=python" />
