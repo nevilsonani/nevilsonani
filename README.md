@@ -67,7 +67,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 
-
 ### My Contributions
 
 <div align="center">
@@ -75,34 +74,22 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nevilsonani/nevilsonani/output/github-contribution-grid-snake.svg" />
 </div>
 
-
 ### :fire: My Stats
 
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://git.io/streak-stats">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=nevilsonani&theme=highcontrast" alt="GitHub Streak"/>
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=nevilsonaniI&theme=highcontrast" alt="GitHub Streak"/>
       </a>
-      <br>
-       <br>
-       <br>
-       <br>
-   
-      
-      
-![Nevil's GitHub stats](https://github-readme-stats.vercel.app/api/?username=nevilsonani\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
     </td>
-      
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevilsonani&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+      </a>
+    </td>
   </tr>
 </table>
-<br>
-   </table>      
-<div align=center>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/nevilsonani/github-readme-stats)
-</div>
-
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
