@@ -84,6 +84,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </table>
 </table>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevilsonani&show_icons=true&theme=cobalt)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
