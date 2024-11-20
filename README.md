@@ -64,12 +64,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-### My Contributions
-
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nevilsonani/nevilsonani/output/github-contribution-grid-snake.svg" />
-</div>
 
 
 ### :fire: My Stats
@@ -92,5 +86,5 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </table>
 
 
-<br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
