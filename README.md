@@ -81,12 +81,14 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
         <img src="http://github-readme-streak-stats.herokuapp.com?user=nevilsonani&theme=highcontrast" alt="GitHub Streak"/>
       </a>
     </td>
+    <br>
     <td align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevilsonani&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
       </a>
     </td>
   </tr>
+</table>br>
 </table>
 
 
