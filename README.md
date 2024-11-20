@@ -25,12 +25,14 @@
 
 ### :man_technologist: About Me
 
-I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Full Stack Web Engineer and contributing to Wordpress core, Gutenberg, open verse, and many other domains of WordPress.
-- :seedling: Exploring the MERN stack, Solidity, and Web-3 concepts.
-- :zap: In my free time, I play guitar, listen to songs, solve problems on Hackerrank, and learn new concepts.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-HilayTrivedi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hilay-trivedi-493b121b1/) or you can mail me on: [![Gmail Badge](https://img.shields.io/badge/-HilayTrivedi-important?style=flat&logo=Gmail&logoColor=white)](mailto:hilaytrivedi1224@gmail.com)
+</p>
+
+- :seedling: Exploring the Data Science, Artificial Intelligence, and Web-3 concepts.
+- :zap: In my free time, I travel, listen to songs, solve problems on Hackerrank, and learn new concepts.
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-NevilSonani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nevil-sonani-263b68222/) or you can mail me on: [![Gmail Badge](https://img.shields.io/badge/-NevilSonani-important?style=flat&logo=Gmail&logoColor=white)](mailto:nevilsonani2810@gmail.com)
+
 
 ### :hammer_and_wrench: Languages and Tools
 <div align="center">
@@ -86,3 +88,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
     </td>
   </tr>
 </table>
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
