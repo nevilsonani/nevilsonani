@@ -68,7 +68,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/HILAYTRIVEDI/HILAYTRIVEDI/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nevilsonani/nevilsonani/output/github-contribution-grid-snake.svg" />
 </div>
 
 
@@ -83,7 +83,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     </td>
     <td align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevilsonaniI&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevilsonani&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
       </a>
     </td>
   </tr>
