@@ -68,21 +68,17 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=nevilsonani&theme=highcontrast" alt="GitHub Streak"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevilsonani&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-      </a>
-    </td>
-  </tr>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=nevilsonani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nevilsonani&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+</tr>
 </table>
-</table>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nevilsonani&theme=tokyonight" />
+</p>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
