@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </p>
 
 - :seedling: Exploring the Data Science, Artificial Intelligence, and Web-3 concepts.
-- :zap: In my free time, I travel, listen to songs, solve problems on Hackerrank, and learn new concepts.
+- :zap: In my free time, I travel, listen to songs, solve problems on LeetCode, and learn new concepts.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-NevilSonani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nevil-sonani-263b68222/) or you can mail me on: [![Gmail Badge](https://img.shields.io/badge/-NevilSonani-important?style=flat&logo=Gmail&logoColor=white)](mailto:nevilsonani2810@gmail.com)
 
 
