@@ -42,7 +42,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     <img src="https://skillicons.dev/icons?i=typescript" />
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=bootstrap" />
-    <img src="https://skillicons.dev/icons?i=node.js" />
+    <img src="https://skillicons.dev/icons?i=nodejs" />
     <br>
     <img src="https://skillicons.dev/icons?i=express" />
     <img src="https://skillicons.dev/icons?i=tailwind" />
