@@ -64,7 +64,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-![snake animation](https://github.com/nevilsonani/nevilsonani/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/nevilsonani/blob/output/github-contribution-grid-snake2.svg)
 
 ### :fire: My Stats
 
