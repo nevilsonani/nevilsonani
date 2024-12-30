@@ -42,9 +42,9 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     <img src="https://skillicons.dev/icons?i=typescript" />
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=bootstrap" />
-    <img src="https://skillicons.dev/icons?i=threejs" />
+    <img src="https://skillicons.dev/icons?i=node.js" />
     <br>
-    <img src="https://skillicons.dev/icons?i=mui" />
+    <img src="https://skillicons.dev/icons?i=express" />
     <img src="https://skillicons.dev/icons?i=tailwind" />
     <img src="https://skillicons.dev/icons?i=git" />
     <img src="https://skillicons.dev/icons?i=scss" />
@@ -55,7 +55,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     <img src="https://skillicons.dev/icons?i=redux" />
     <img src="https://skillicons.dev/icons?i=python" />
     <br>
-    <img src="https://skillicons.dev/icons?i=nextjs" />
+    <img src="https://skillicons.dev/icons?i=mongodb" />
     <img src="https://skillicons.dev/icons?i=mysql" />
     <img src="https://skillicons.dev/icons?i=wordpress" />
     <br>
