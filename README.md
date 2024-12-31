@@ -78,6 +78,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nevilsonani&theme=tokyonight" />
 </p>
-
+[![Nevil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nevilsonani&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)](https://github.com/nevilsonani)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
