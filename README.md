@@ -57,9 +57,9 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     <br>
     <img src="https://skillicons.dev/icons?i=mongodb" />
     <img src="https://skillicons.dev/icons?i=mysql" />
-    <img src="https://skillicons.dev/icons?i=wordpress" />
+    <img src="https://skillicons.dev/icons?i=postgresql" />
     <br>
-    <img src="https://skillicons.dev/icons?i=php" />
+    <img src="https://skillicons.dev/icons?i=wordpress" />
 </div>
 
 ---
