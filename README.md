@@ -72,7 +72,8 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=nevilsonani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nevilsonani&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nevilsonani&show_icons=true&locale=en&layout=compact&theme=tokyonight" /> -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevilsonani&langs_count=10&layout=compact&theme=radical&hide_border=true)
 </td>
 </tr>
 </table>
