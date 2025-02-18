@@ -83,10 +83,3 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/nevilsonani/nevilsonani/blob/output/snake.svg" />
-</p>
-
